@@ -429,8 +429,6 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 
 Thank you to all our backers! [[Become a hacker](https://opencollective.com/ccxt#hacker)]
 
-<a href="https://opencollective.com/ccxt#hackers" target="_blank"><img src="https://opencollective.com/ccxt/hackers.svg?width=890"></a>
-
 ### Crypto
 
 ```
