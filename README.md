@@ -427,7 +427,7 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 
 ### Backers
 
-Thank you to all our backers! [[Become a backer](https://opencollective.com/ccxt#backer)]
+Thank you to all our backers! [[Become a hacker](https://opencollective.com/ccxt#hacker)]
 
 <a href="https://opencollective.com/ccxt#backers" target="_blank"><img src="https://opencollective.com/ccxt/backers.svg?width=890"></a>
 
